@@ -1,3 +1,5 @@
 # IAC based Data Processing Framework leveraging AWS Services
-What problem are we solving here?
+What problem are we solving here? Suppose, you are generating lot of data, either on Shop floor or in a Factory or in a consumer device. And you want to process the data, at a location close to where the data is being generated or somewhere in the AWS cloud. But it is easier said than done. What should your data architecture look like? Which all AWS services should you use? Which AWS API/SDK should you learn in order to use these services? How would you setup your AWS Infrastructure.
+
+
 Spin-up a data processing framework, using one-click, on AWS using Infrastructure-as-code. It sets up an entire architecture on AWS that allows you to process data wherever you want - either at the source of data generation, such as Factory, Shop floor, Consumer's personal device or on cloud. You do not need to know about cloud APIs, SDKs etc. and can focus on writing logic to process your data using programming language of your choice. And the framework transparently executes it wherever you want. The framework also brings the data on AWS data analytics platform so that you can create dashboards etc. according to your business needs.  
