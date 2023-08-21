@@ -1,2 +1,2 @@
 # iac-based-dataprocessing-on-aws
-IaC-based data processing framework leveraging AWS services 
+Spin-up a data processing framework, using one-click, on AWS using Infrastructure-as-code. It sets up an entire architecture on AWS that allows you to process data wherever you want - either at the source of data generation, such as Factory, Shop floor, Consumer's personal device or on cloud. You do not need to know about cloud APIs, SDKs etc. and can focus on writing logic to process your data using programming language of your choice. And the framework transparently executes it wherever you want. The framework also brings the data on AWS data analytics platform so that you can create dashboards etc. according to your business needs.  
